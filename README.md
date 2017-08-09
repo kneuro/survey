@@ -2,3 +2,9 @@
 A multi-language, cross platform program that asks a series of questions in a survey form and prints the collected answers.
 
 # Purpose
+
+The purpose of Survey is to gauge the differences between several popular programming languages. It also serves as an entry point for learning simply input and programming for a console.
+
+# Compatibility
+
+Survey will run on Linux, Mac, Windows and BSD. Which versions of these operating systems Survey runs on is dependent on the installed software and dependencies. 
