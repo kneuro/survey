@@ -1,7 +1,5 @@
 # To Do
 
-- Add "What is your age?" C++, C# and Lisp.
-- Add "What is your age?" to C++.
 - Add "What is your age?" C#.
 - Add "What is your age?" to Lisp.
 - Rewrite Rust source file.
