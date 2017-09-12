@@ -1,6 +1,5 @@
 # To Do
 
-- Add "What is your age?" to Lisp.
 - Rewrite Rust source file.
 - Add ability to input strings and integers for age question.
 - Add "What is your name?" to Python 2 and 3 scripts.

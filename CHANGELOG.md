@@ -9,3 +9,4 @@ A general log of various changes to the repository and program.
 - Added C code for C version of application.
 - Added C++ code for C++ version of application.
 - Added C# code for C# version of application.
+- Added Lisp code for Lisp version of application.
