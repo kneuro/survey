@@ -1,6 +1,5 @@
 # To Do
 
-- Add "What is your age?" C#.
 - Add "What is your age?" to Lisp.
 - Rewrite Rust source file.
 - Add ability to input strings and integers for age question.
