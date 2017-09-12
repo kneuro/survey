@@ -1,0 +1,8 @@
+(write-line " ")
+(write-line "Welcome! How old are you?")
+(write-line " ")
+(setq age(read))
+(write-line " ")
+(format t "You are ~s years old!" age)
+(write-line " ")
+(write-line " ")
