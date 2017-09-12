@@ -7,3 +7,4 @@ A general log of various changes to the repository and program.
 - Added CHANGELOG.md.
 - Added short description in CHANGELOG.md.
 - Added C code for C version of application.
+- Added C++ code for C++ version of application.
