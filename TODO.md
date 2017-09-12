@@ -1,6 +1,6 @@
 # To Do
 
-- Add "What is your age" to C, C++, C# and Lisp.
+- Add "What is your age" C++, C# and Lisp.
 - Add "What is your name?" to C, C++, C# and Lisp.
 - Add "What is your name?" to Python 2 and 3 scripts.
 - Add function to write input data to a plain text file.
