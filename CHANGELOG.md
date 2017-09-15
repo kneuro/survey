@@ -11,3 +11,6 @@ A general log of various changes to the repository and program.
 - Added C# code for C# version of application.
 - Added Lisp code for Lisp version of application.
 - Added note about compilers and platform Survey has been tested on, including OS information.
+
+## 09/15/2017:
+- Rewrote TODO.md with clearer instructions.
