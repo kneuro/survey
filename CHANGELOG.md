@@ -3,6 +3,7 @@
 A general log of various changes to the repository and program.
 
 ## 09/12/2017:
+
 - Clarified purpose of Survey.
 - Added CHANGELOG.md.
 - Added short description in CHANGELOG.md.
@@ -13,4 +14,6 @@ A general log of various changes to the repository and program.
 - Added note about compilers and platform Survey has been tested on, including OS information.
 
 ## 09/15/2017:
+
 - Rewrote TODO.md with clearer instructions.
+- Tweaked CHANGELOG.md layout. 
