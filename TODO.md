@@ -1,6 +1,5 @@
 # To Do
 
-- Rewrite Rust source file.
 - Add function to display an error if integer or string criteria is not met for input in Python 2.
 - Add function to display an error if integer or string criteria is not met for input in Python 3.
 - Add function to display an error if integer or string criteria is not met for input in C.

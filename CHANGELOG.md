@@ -16,4 +16,9 @@ A general log of various changes to the repository and program.
 ## 09/15/2017:
 
 - Rewrote TODO.md with clearer instructions.
-- Tweaked CHANGELOG.md layout. 
+- Tweaked CHANGELOG.md layout.
+
+## 09/17/2017:
+
+- Rewrote main.rs to be more sensible (removed functions).
+- Rewrote some printed lines in all source files to be more uniform.

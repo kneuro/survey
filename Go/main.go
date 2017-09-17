@@ -3,10 +3,8 @@ import "fmt"
 
 func main() {
     var age string
-    age1 := "\nHow old are you? "
-    fmt.Print("\nWelcome to Survey! Let's get started.\n")
-    fmt.Print(age1)
+    fmt.Print("\nWelcome to Survey! What is your age?\n\n")
     fmt.Scanf("%s", &age)
-    fmt.Print("\nAwesome! You are ", age, " years old!\n" )
+    fmt.Print("\nYou are ", age, " years old!\n" )
     fmt.Print("\n")
 }

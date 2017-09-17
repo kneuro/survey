@@ -1,5 +1,5 @@
 (write-line " ")
-(write-line "Welcome! How old are you?")
+(write-line "Welcome to Survey! How old are you?")
 (write-line " ")
 (setq age(read))
 (write-line " ")
