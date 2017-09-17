@@ -1,8 +1,5 @@
 # To Do
 
-- Add function to display an error if integer or string criteria is not met for input in Python 2.
-- Add function to display an error if integer or string criteria is not met for input in Python 3.
-- Add function to display an error if integer or string criteria is not met for input in C.
 - Add function to display an error if integer or string criteria is not met for input in C#.
 - Add function to display an error if integer or string criteria is not met for input in C++.
 - Add function to display an error if integer or string criteria is not met for input in Go.

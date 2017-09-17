@@ -22,3 +22,5 @@ A general log of various changes to the repository and program.
 
 - Rewrote main.rs to be more sensible (removed functions).
 - Rewrote some printed lines in all source files to be more uniform.
+- Added functionality to Python scripts that handle an error if input is not an integer.
+- Added functionality to C source that handle an error if the input is not an integer. 
