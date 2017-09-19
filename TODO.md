@@ -1,6 +1,5 @@
 # To Do
 
-- Add function to display an error if integer or string criteria is not met for input in Go.
 - Add "What is your name?" to Python 2.
 - Add "What is your name?" to Python 3.
 - Add "What is your name?" to C.

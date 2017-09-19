@@ -32,3 +32,4 @@ A general log of various changes to the repository and program.
 - Added explanation for source removal in README.md.
 - Added integer error handling for C++.
 - Added integer error handling for C#.
+- Added integer error handling for Go.
