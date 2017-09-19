@@ -1,15 +1,36 @@
-# This imports some standard functionality available to all Python languages.
 import sys
-# This prints a welcome message. /n means new line. Strings are in double quotes.
+
 print("\nWelcome to Survey! What is your age?\n")
-# This is the main loop of the program. It runs a while loop that checks to see if your age is an integer, in which prints a successful message, else it prints an error exception asking the user to try again. Note that the age variable must be converted to a string with the 'str(variable)' argument, otherwise it will not work inside the printed string.
+
 while True:
     try:
         age = int(raw_input("Enter your age: "))
-        print("\nYou are " + str(age) + " years old!\n")
+        print("\nYou are " + str(age) + " years old!")
         break
     except ValueError:
         print("\nThat's not an age! Try again...\n")
         sys.exit()
-# This properly ends the Python script.
+
+print("\nNice! Now, what is your name?\n")
+name = str(raw_input("Enter your name: "))
+print("\nHello " + str(name) + "! It's nice to meet you!\n")
+print("Would you like to write your age and name to a text file?\n")
+print("Press 1 for yes or press anything else for no!\n")
+
+while True:
+    try:
+        yn = int(raw_input("Print to text file? "))
+        if yn == 1:
+            f = open("Survey.txt","w")
+            f.write("\nAge: " + str(age))
+            f.write("\nName: " + str(name) + "\n\n")
+            f.close()
+            print("\nAll done! Check for Survey.txt in the current directory!\n")
+            sys.exit()
+        elif yn == 2:
+            print("\nOkay! Exiting...\n")
+            sys.exit()
+    except ValueError:
+        print("\nThat's not a 1 or a 2!\n")
+        sys.exit()
 sys.exit()

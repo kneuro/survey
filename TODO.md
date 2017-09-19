@@ -1,12 +1,13 @@
 # To Do
 
-- Add "What is your name?" to Python 2.
-- Add "What is your name?" to Python 3.
 - Add "What is your name?" to C.
 - Add "What is your name?" to C++.
 - Add "What is your name?" to C#.
 - Add "What is your name?" to Go.
-- Add function to write input data to a plain text file.
+- Add function to write input data to a plain text file for C.
+- Add function to write input data to a plain text file for C++.
+- Add function to write input data to a plain text file for C#.
+- Add function to write input data to a plain text file for Go.
 - Add logo for Survey in README.md.
 - Expand stated purpose and general README.md file.
 - Create compilation instructions/README.md for each language.
