@@ -10,7 +10,18 @@ The purpose of Survey is to gauge the differences between several popular progra
 Survey will run on Linux, Mac, Windows and BSD. Which versions of these operating systems Survey runs on is dependent on the installed software and dependencies.
 
 ## Software & Language Versions
-Tested on Xubuntu 16.04.3 LTS x86_64 (64bit)/Linux kernel 4.10.0-33-generic, AMD platform. Compilers used are GCC (GCC & G++), Clisp (Lisp compiler, Common Lisp Dialect), Mono MCS compiler, Rustc compiler, Python 2 interpreter and Python 3 interpreter. 
+Tested on Xubuntu 16.04.3 LTS x86_64 (64bit)/Linux kernel 4.10.0-33-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, Python 2 interpreter and Python 3 interpreter.
+
+## Languages
+
+Below is a list of programming language used to create Survey. Two were removed: Lisp and Rust. Lisp (Common Lisp) seemed out of place and couldn't be easily resolved to a binary and Rust still has a lot of bugs, syntax and development issues. Go (Golang), while much newer than the other languages, seems to be much more stable, so it was kept.
+
+- C
+- C++
+- C#
+- Go
+- Python 2.x
+- Python 3.x
 
 # On Development
 
