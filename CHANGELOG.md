@@ -37,3 +37,5 @@ A general log of various changes to the repository and program.
 - Added "What is your name? " input to Python 3.
 - Added outputting to plain text file in Python 2.
 - Added outputting to plain text file in Python 3.
+- Added "What is your name? " input to C.
+- Added outputting to plain text file in C.
