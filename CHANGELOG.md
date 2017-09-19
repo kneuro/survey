@@ -30,4 +30,5 @@ A general log of various changes to the repository and program.
 - Removed Rust directory and source from project.
 - Removed Lisp directory and source from project.
 - Added explanation for source removal in README.md.
-- Added integer error handling for C++. 
+- Added integer error handling for C++.
+- Added integer error handling for C#.
