@@ -33,7 +33,7 @@ int main ()
   printf("\nHello %s! It's nice to meet you!\n", name);
   printf("\nWould you like to write your age and name to a text file?\n");
   int yn;
-  printf("\nPress 1 for yes or 2 for no! ");
+  printf("\nPress 1 for yes or any other key for no! ");
   scanf("%d",&yn);
   if (yn == 1) {
     FILE *fp;
