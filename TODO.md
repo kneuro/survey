@@ -1,9 +1,7 @@
 # To Do
 
-- Add "What is your name?" to C++.
 - Add "What is your name?" to C#.
 - Add "What is your name?" to Go.
-- Add function to write input data to a plain text file for C++.
 - Add function to write input data to a plain text file for C#.
 - Add function to write input data to a plain text file for Go.
 - Add logo for Survey in README.md.
