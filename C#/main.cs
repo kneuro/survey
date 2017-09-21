@@ -25,9 +25,7 @@ public class Survey
     while (true)
       {
         Console.WriteLine("\nPress 1 for yes or any other key for no!\n ");
-        // read input
         var yn = Console.ReadLine();
-        // shall we exit ?
         if (yn != null && yn.Trim().Equals("1", StringComparison.InvariantCultureIgnoreCase))
         {
           string age1 = age.ToString();
