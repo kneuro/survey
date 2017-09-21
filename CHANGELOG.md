@@ -39,3 +39,10 @@ A general log of various changes to the repository and program.
 - Added outputting to plain text file in Python 3.
 - Added "What is your name? " input to C.
 - Added outputting to plain text file in C.
+- Added "What is your name? " input to C++.
+- Added outputting to plain text file in C++.
+
+## 09/20/2017:
+
+- Added "What is your name? " input to C#.
+- Added outputting to plain text file in C# (seems to work on both Linux and Windows!).
