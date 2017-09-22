@@ -27,10 +27,7 @@ while True:
             f.close()
             print("\nAll done! Check for Survey.txt in the current directory!\n")
             sys.exit()
-        elif yn == 2:
-            print("\nOkay! Exiting...\n")
-            sys.exit()
     except ValueError:
-        print("\nThat's not a 1 or a 2!\n")
+        print("\nOkay! Exiting... \n")
         sys.exit()
 sys.exit()
