@@ -46,3 +46,9 @@ A general log of various changes to the repository and program.
 
 - Added "What is your name? " input to C#.
 - Added outputting to plain text file in C# (seems to work on both Linux and Windows!).
+
+## 09/26/2017:
+
+- Added basic text file input and out put to Go.
+- Completed all Linux versions of Survey.
+- Updated CHANGELOG.md and TODO.md.

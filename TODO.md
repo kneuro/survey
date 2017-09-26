@@ -1,7 +1,5 @@
 # To Do
 
-- Add "What is your name?" to Go.
-- Add function to write input data to a plain text file for Go.
 - Add logo for Survey in README.md.
 - Expand stated purpose and general README.md file.
 - Create compilation instructions/README.md for each language.
