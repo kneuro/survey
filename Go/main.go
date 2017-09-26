@@ -1,6 +1,7 @@
 package main
 import "fmt"
 import "strconv"
+import "io/ioutil"
 
 func main() {
     var age string
@@ -10,6 +11,7 @@ func main() {
           fmt.Printf("\nYou are %s years old!\n", age)
         } else {
         fmt.Printf("\nThat's not an age! Try again... \n")
+
       }
     fmt.Println("\nNice! Now, what is your name?\n")
     fmt.Printf("Enter your name: ")
@@ -21,7 +23,9 @@ func main() {
     var yes int
     fmt.Scanf("%d", &yes)
     if yes == 1 {
-      fmt.Printf("\nWoohoo!\n")
+      data := fmt.Sprintf("\nAge: %s\nName: %s\n\n", age, name)
+      ioutil.WriteFile("Survey.txt", []byte(data), 0644)
+      fmt.Printf("\nAll done! Check Survey.txt in the current directory!\n\n")
     } else {
       fmt.Printf("\nOkay! Exiting... \n\n")
     }
