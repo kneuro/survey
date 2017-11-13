@@ -1,4 +1,4 @@
-![alt text](https://github.com/mknepper/survey/blob/master/Images/surveylogo.png)
+![alt text](https://github.com/mknepper/survey/blob/master/Images/logo.png)
 
 # Survey
 A multi-language, cross platform program that asks a series of questions in a survey form and prints the collected answers.
