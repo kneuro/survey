@@ -52,3 +52,7 @@ A general log of various changes to the repository and program.
 - Added basic text file input and out put to Go.
 - Completed all Linux versions of Survey.
 - Updated CHANGELOG.md and TODO.md.
+
+## 11/13/2017:
+
+- Added logo for Survey and folder for logo.
