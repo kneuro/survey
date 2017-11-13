@@ -1,4 +1,6 @@
-![alt text](https://github.com/mknepper/survey/blob/master/Images/logo.png)
+![Banner](https://github.com/mknepper/survey/blob/master/Images/logo.png)
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
 
 # Survey
 A multi-language, cross platform program that asks a series of questions in a survey form and prints the collected answers.
