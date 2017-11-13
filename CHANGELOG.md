@@ -56,3 +56,5 @@ A general log of various changes to the repository and program.
 ## 11/13/2017:
 
 - Added logo for Survey and folder for logo.
+- Added a README.md for C source, Linux instructions.
+- Updated CHANGELOG.md and TODO.md.
