@@ -1,4 +1,4 @@
-This is the C version of Survey. To build, follow the directions below. This assumes you're using GCC. This is for Linux only (at the moment).
+This is the C version of Survey. To build, follow the directions below. This assumes you're using GCC.
 
 ## Build
 
@@ -16,4 +16,4 @@ Following the install of needed libraries, being compilation. Navigate to the so
 
 > gcc -o main main.c
 
-You can replace "main" with whatever you'd like to call the binary/compiled executable instead. That's it. 
+You can replace "main" with whatever you'd like to call the binary/compiled executable instead. That's it.

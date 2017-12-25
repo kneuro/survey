@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
 
 # Survey
-A multi-language, cross platform program that asks a series of questions in a survey form and prints the collected answers.
+A multi-language program that asks a series of questions in a survey form and prints the collected answers.
 
 # Purpose
 
@@ -11,7 +11,7 @@ The purpose of Survey is to gauge the differences between several popular progra
 
 # Compatibility
 
-Survey will run on Linux, Mac, Windows and BSD. Which versions of these operating systems Survey runs on is dependent on the installed software and dependencies.
+Survey runs on GNU/Linux, though it can be ported to Windows or other operating systems if needed.
 
 ## Software & Language Versions
 Tested on Xubuntu 16.04.3 LTS x86_64 (64bit)/Linux kernel 4.10.0-33-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, Python 2 interpreter and Python 3 interpreter.

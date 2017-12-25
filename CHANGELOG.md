@@ -62,4 +62,5 @@ A general log of various changes to the repository and program.
 ## 12/25/2017:
 
 - The planned port of Survey to Windows has been cancelled. Survey will stay on GNU/Linux.
+- Fixed README.md and the Python README.md to reflect Linux support/Windows cancellation.
 - Updated CHANGELOG.md and TODO.md.
