@@ -58,3 +58,8 @@ A general log of various changes to the repository and program.
 - Added logo for Survey and folder for logo.
 - Added a README.md for C source, Linux instructions.
 - Updated CHANGELOG.md and TODO.md.
+
+## 12/25/2017:
+
+- The planned port of Survey to Windows has been cancelled. Survey will stay on GNU/Linux.
+- Updated CHANGELOG.md and TODO.md.
