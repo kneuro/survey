@@ -68,3 +68,11 @@ A general log of various changes to the repository and program.
 ## 12/26/2017:
 
 - Cleaned up README.md.
+
+## 12/27/2017:
+
+- Cleaned up README.md.
+- Added README.md to Go and C++.
+- Added "Enter your age: " to input of Survey in the Go version.
+- Updated TODO.md.
+- Updated CHANGELOG.md.
