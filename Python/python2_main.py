@@ -10,7 +10,7 @@ while True:
     except ValueError:
         print("\nThat's not an age! Try again...\n")
         sys.exit()
-
+        
 print("\nNice! Now, what is your name?\n")
 name = str(raw_input("Enter your name: "))
 print("\nHello " + str(name) + "! It's nice to meet you!\n")
