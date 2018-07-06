@@ -76,3 +76,9 @@ A general log of various changes to the repository and program.
 - Added "Enter your age: " to input of Survey in the Go version.
 - Updated TODO.md.
 - Updated CHANGELOG.md.
+
+## 07/06/2018:
+
+- Deleted TODO.md.
+- Archived repository; development has ceased unless someone wants to fork the code. 
+- Updated README.md and CHANGELOG.md.
