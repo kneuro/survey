@@ -15,7 +15,7 @@ The purpose of Survey is to gauge the differences between several popular progra
 Survey runs on GNU/Linux, though it can be ported to Windows or other operating systems if needed.
 
 ### Software & Language Versions
-Tested on Linux Mint 20 x86_64 (64bit)/Linux kernel 5.9.12-050912-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, and Python 3 interpreter. Later versions were completed and run on Debian 9.3 Stretch with the same compilers and language packages.
+Tested on Linux Mint 20 x86_64 (64bit)/Linux kernel 5.9.12-050912-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, and Python 3 interpreter.
 
 ### Languages
 
