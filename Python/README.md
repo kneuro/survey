@@ -1,20 +1,14 @@
-Install Python 2.x or Python 3.x depending on which script you prefer to run.
-
 # Running
 
-Install your preferred version via the Python official website. For Linux, Python should be in your repositories. If not, install from the website.
+Install Python 3.x For Linux, Python should be in your repositories. If not, install from the website.
 
 Open a terminal and type "python script_name" to run. Example:
 
-> python python2_main.py
-
-or
-
-> python3 python3_main.py
+> python3 python3.py
 
 # Dependencies
 
-All operating system require Python for this to work. Choose Python 2 or Python 3 depending on which script you prefer to run.
+All operating system require Python for this to work. 
 
 # Modifying
 
