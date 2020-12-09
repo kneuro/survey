@@ -2,6 +2,14 @@
 
 A general log of various changes to the repository and program.
 
+## 12/08/2020:
+
+- Removed Python 2 mentions from README.md.
+- Removed Python 2 mentions from Python/README.md.
+- Updated README.md with current kernel and system information.
+- Removed Python 2 files.
+- Renamed python3_main.py to python3.py.
+
 ## 09/12/2017:
 
 - Clarified purpose of Survey.
@@ -80,5 +88,5 @@ A general log of various changes to the repository and program.
 ## 07/06/2018:
 
 - Deleted TODO.md.
-- Archived repository; development has ceased unless someone wants to fork the code. 
+- Archived repository; development has ceased unless someone wants to fork the code.
 - Updated README.md and CHANGELOG.md.
