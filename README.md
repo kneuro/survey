@@ -15,19 +15,18 @@ The purpose of Survey is to gauge the differences between several popular progra
 Survey runs on GNU/Linux, though it can be ported to Windows or other operating systems if needed.
 
 ### Software & Language Versions
-Tested on Xubuntu 16.04.3 LTS x86_64 (64bit)/Linux kernel 4.10.0-33-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, Python 2 interpreter and Python 3 interpreter. Later versions were completed and run on Debian 9.3 Stretch with the same compilers and language packages. 
+Tested on Linux Mint 20 x86_64 (64bit)/Linux kernel 5.9.12-050912-generic, AMD platform. Compilers used are GCC (GCC & G++), Mono MCS compiler, and Python 3 interpreter. Later versions were completed and run on Debian 9.3 Stretch with the same compilers and language packages.
 
 ### Languages
 
-Below is a list of programming language used to create Survey. Several were removed during the course of Survey's development. 
+Below is a list of programming language used to create Survey. Several were removed during the course of Survey's development. Python 2 has been removed due to deprecation.
 
 - C
 - C++
 - C#
 - Go
-- Python 2.x
 - Python 3.x
 
-## Archival & Cancellation
+## Revival & Continuation
 
-Survey's original purpose has been fufilled - the additional languages and support on operating systems has ceased; right now, Survey is finished and archived unless someone would like to fork it and expand on the code. The only tweaks might be a general housekeeping (spelling, formatting to documentation). 
+Survey has been brought back from the dead. This section of the README.md file will be replaced eventually after the addition of Rust.
